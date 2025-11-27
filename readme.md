@@ -2,7 +2,7 @@
 
 Adds bronze using IR3 graphical assets, if installed.
 
-* Requies a source of tin ore
+* Requires a source of tin ore
 
 *Requires the manual installation of the Industrial Revolution 3 Asset Packs*
 
