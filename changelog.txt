@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 13.12.2025
+  Bugfixes:
+    - None
+  Changes:
+    - Changed the recipe result amount for bronze rivet from 1 to 2
+    - Changed the stack size and weight of several items
+---------------------------------------------------------------------------------------------------
 Version: 0.0.1
 Date: 26.11.2025
   Bugfixes:

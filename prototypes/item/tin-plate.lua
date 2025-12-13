@@ -30,5 +30,6 @@ data:extend({
             },
         },
         stack_size = 100,
+        weight = 10000
     }
 })

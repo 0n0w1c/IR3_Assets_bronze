@@ -60,7 +60,7 @@ data:extend({
             {
                 type = "item",
                 name = "bronze-rivet",
-                amount = 1,
+                amount = 2,
             },
         },
         enabled = false,
