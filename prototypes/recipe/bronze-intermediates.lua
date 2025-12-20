@@ -3,7 +3,7 @@ data:extend({
         name = "bronze-plate",
         type = "recipe",
         category = "kiln-smelting",
-        energy_required = 5,
+        energy_required = 3.2,
         ingredients = {
             {
                 type = "item",
@@ -28,7 +28,7 @@ data:extend({
     {
         name = "bronze-rod",
         type = "recipe",
-        energy_required = 1,
+        energy_required = 0.5,
         ingredients = {
             {
                 type = "item",
@@ -48,7 +48,7 @@ data:extend({
     {
         name = "bronze-rivet",
         type = "recipe",
-        energy_required = 1,
+        energy_required = 0.5,
         ingredients = {
             {
                 type = "item",
@@ -68,7 +68,7 @@ data:extend({
     {
         name = "bronze-piston",
         type = "recipe",
-        energy_required = 1,
+        energy_required = 0.5,
         ingredients = {
             {
                 type = "item",
@@ -93,7 +93,7 @@ data:extend({
     {
         name = "bronze-plate-heavy",
         type = "recipe",
-        energy_required = 2,
+        energy_required = 1,
         ingredients = {
             {
                 type = "item",
@@ -118,12 +118,12 @@ data:extend({
     {
         name = "bronze-frame",
         type = "recipe",
-        energy_required = 3,
+        energy_required = 2.5,
         ingredients = {
             {
                 type = "item",
                 name = "bronze-rod",
-                amount = 12,
+                amount = 4,
             },
             {
                 type = "item",

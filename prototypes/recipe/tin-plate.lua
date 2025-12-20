@@ -5,7 +5,7 @@ data:extend({
         category = "smelting",
         auto_recycle = false,
         enabled = true,
-        energy_required = 2.5,
+        energy_required = 3.2,
         ingredients = {
             {
                 type = "item",

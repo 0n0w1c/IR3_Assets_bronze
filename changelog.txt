@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+Date: 20.12.2025
+  Bugfixes:
+    - None
+  Changes:
+    - Changed the recipe for bronze frame, reduced ingredient amount for bronze rod from 12 to 4
+    - Adjusted the crafting times
+---------------------------------------------------------------------------------------------------
 Version: 0.0.2
 Date: 13.12.2025
   Bugfixes:
