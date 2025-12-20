@@ -16,24 +16,7 @@ data:extend({
         inventory_move_sound = item_sounds.metal_small_inventory_move,
         pick_sound = item_sounds.metal_small_inventory_pickup,
         drop_sound = item_sounds.metal_small_inventory_move,
-        weight = 10000
-    },
-    {
-        type = "item",
-        name = "bronze-rod",
-        icons = {
-            {
-                icon = "__IndustrialRevolution3Assets1__/graphics/icons/64/bronze-rod.png",
-                icon_size = 64
-            }
-        },
-        subgroup = "bronze-intermediates",
-        order = "r[bronze-pipe]-d[bronze-rod]",
-        stack_size = 100,
-        inventory_move_sound = item_sounds.metal_small_inventory_move,
-        pick_sound = item_sounds.metal_small_inventory_pickup,
-        drop_sound = item_sounds.metal_small_inventory_move,
-        weight = 10000
+        weight = 10 * kg
     },
     {
         type = "item",
@@ -45,12 +28,29 @@ data:extend({
             }
         },
         subgroup = "bronze-intermediates",
-        order = "r[bronze-pipe]-e[bronze-rivet]",
+        order = "r[bronze-pipe]-d[bronze-rivet]",
         stack_size = 100,
         inventory_move_sound = item_sounds.metal_small_inventory_move,
         pick_sound = item_sounds.metal_small_inventory_pickup,
         drop_sound = item_sounds.metal_small_inventory_move,
-        weight = 10000
+        weight = 10 * kg
+    },
+    {
+        type = "item",
+        name = "bronze-rod",
+        icons = {
+            {
+                icon = "__IndustrialRevolution3Assets1__/graphics/icons/64/bronze-rod.png",
+                icon_size = 64
+            }
+        },
+        subgroup = "bronze-intermediates",
+        order = "r[bronze-pipe]-e[bronze-rod]",
+        stack_size = 100,
+        inventory_move_sound = item_sounds.metal_small_inventory_move,
+        pick_sound = item_sounds.metal_small_inventory_pickup,
+        drop_sound = item_sounds.metal_small_inventory_move,
+        weight = 10 * kg
     },
     {
         type = "item",
@@ -67,7 +67,7 @@ data:extend({
         inventory_move_sound = item_sounds.metal_small_inventory_move,
         pick_sound = item_sounds.metal_small_inventory_pickup,
         drop_sound = item_sounds.metal_small_inventory_move,
-        weight = 20000
+        weight = 20 * kg
     },
     {
         type = "item",
@@ -84,7 +84,7 @@ data:extend({
         inventory_move_sound = item_sounds.metal_small_inventory_move,
         pick_sound = item_sounds.metal_small_inventory_pickup,
         drop_sound = item_sounds.metal_small_inventory_move,
-        weight = 20000
+        weight = 20 * kg
     },
     {
         type = "item",
@@ -101,6 +101,6 @@ data:extend({
         inventory_move_sound = item_sounds.metal_small_inventory_move,
         pick_sound = item_sounds.metal_small_inventory_pickup,
         drop_sound = item_sounds.metal_small_inventory_move,
-        weight = 20000
+        weight = 20 * kg
     },
 })
