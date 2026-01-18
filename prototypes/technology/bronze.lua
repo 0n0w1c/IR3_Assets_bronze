@@ -41,6 +41,10 @@ data:extend({
             },
             {
                 type = "unlock-recipe",
+                recipe = "small-bronze-pole",
+            },
+            {
+                type = "unlock-recipe",
                 recipe = "bronze-furnace",
             },
             {

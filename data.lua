@@ -34,6 +34,11 @@ end
 require("prototypes/item/bronze-intermediates")
 require("prototypes/recipe/bronze-intermediates")
 
+require("prototypes/explosion/small-bronze-pole")
+require("prototypes/entity/small-bronze-pole")
+require("prototypes/item/small-bronze-pole")
+require("prototypes/recipe/small-bronze-pole")
+
 require("prototypes/explosion/bronze-furnace")
 require("prototypes/entity/bronze-furnace")
 require("prototypes/item/bronze-furnace")
