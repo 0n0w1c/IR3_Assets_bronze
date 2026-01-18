@@ -209,31 +209,30 @@ data:extend({
         vehicle_impact_sound = {
             game_controller_vibration_data = {
                 duration = 150,
-                low_frequency_vibration_intensity = 0.45
+                low_frequency_vibration_intensity = 0.9
             },
             switch_vibration_data = {
-                filename = "__base__/sound/car-wood-impact.bnvib",
-                gain = 0.5
+                filename = "__base__/sound/car-metal-impact.bnvib"
             },
             variations = {
                 {
-                    filename = "__base__/sound/car-wood-impact.ogg",
+                    filename = "__base__/sound/car-metal-impact-2.ogg",
                     volume = 0.5
                 },
                 {
-                    filename = "__base__/sound/car-wood-impact-02.ogg",
+                    filename = "__base__/sound/car-metal-impact-3.ogg",
                     volume = 0.5
                 },
                 {
-                    filename = "__base__/sound/car-wood-impact-03.ogg",
+                    filename = "__base__/sound/car-metal-impact-4.ogg",
                     volume = 0.5
                 },
                 {
-                    filename = "__base__/sound/car-wood-impact-04.ogg",
+                    filename = "__base__/sound/car-metal-impact-5.ogg",
                     volume = 0.5
                 },
                 {
-                    filename = "__base__/sound/car-wood-impact-05.ogg",
+                    filename = "__base__/sound/car-metal-impact-6.ogg",
                     volume = 0.5
                 }
             }
