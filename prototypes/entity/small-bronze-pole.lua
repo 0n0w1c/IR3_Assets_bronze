@@ -123,10 +123,7 @@ data:extend({
                 type = "create-particle"
             }
         },
-        drawing_box = {
-            { -0.5, -2.6 },
-            { 0.5,  0.5 }
-        },
+        drawing_box_vertical_extension = 3,
         dying_explosion = "small-bronze-pole-explosion",
         fast_replaceable_group = "electric-pole",
         flags = {
