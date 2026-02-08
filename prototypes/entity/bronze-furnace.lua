@@ -112,7 +112,7 @@ data:extend({
             { 1.25,  1.25 }
         },
         corpse = "medium-remnants",
-        crafting_speed = 2.5,
+        crafting_speed = 2,
         damaged_trigger_effect = {
             {
                 damage_type_filters = {
