@@ -3,6 +3,8 @@ data:extend({
         type = "assembling-machine",
         name = "bronze-alloy-furnace",
 
+        module_slots = 2,
+        allowed_effects = { "speed", "productivity", "consumption" },
         crafting_categories = { "kiln-smelting" },
 
         graphics_set = {

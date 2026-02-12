@@ -2,6 +2,9 @@ data:extend({
     {
         type = "furnace",
         name = "bronze-furnace",
+
+        module_slots = 2,
+        allowed_effects = { "speed", "productivity", "consumption" },
         crafting_categories = { "smelting" },
 
         graphics_set = {
