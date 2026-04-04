@@ -1,5 +1,5 @@
 local ingredients = {
-    { type = "item", name = "steam-pipe",    amount = 2 },
+    { type = "item", name = "steam-pipe",    amount = 4 },
     { type = "item", name = "bronze-frame",  amount = 1 },
     { type = "item", name = "bronze-piston", amount = 4 },
 }
