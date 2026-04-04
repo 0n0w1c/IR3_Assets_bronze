@@ -1,6 +1,6 @@
 local ingredients = {
     { type = "item", name = "bronze-rivet",       amount = 4 },
-    { type = "item", name = "bronze-plate-heavy", amount = 12 },
+    { type = "item", name = "bronze-plate-heavy", amount = 6 },
 }
 
 if mods["IR3_Assets_alloy_smelting"] then

@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 11.02.2026
+  Bugfixes:
+    - None
+  Changes:
+    - Bronze plate recipe modified to 1 copper plate and 1 tin plate, results in 1 bronze plate
+    - Bronze furnace, alloy furnace and telescope recipes have been modified (cheaper)
+---------------------------------------------------------------------------------------------------
 Version: 0.0.9
 Date: 11.02.2026
   Bugfixes:

@@ -1,15 +1,15 @@
 local ingredients = {
-    { type = "item", name = "steam-pipe",    amount = 12 },
+    { type = "item", name = "steam-pipe",    amount = 2 },
     { type = "item", name = "bronze-frame",  amount = 1 },
     { type = "item", name = "bronze-piston", amount = 4 },
 }
 
 if data.raw["item"]["glass"] then
-    table.insert(ingredients, { type = "item", name = "glass", amount = 8 })
+    table.insert(ingredients, { type = "item", name = "glass", amount = 4 })
 elseif data.raw["item"]["glass-plate"] then
-    table.insert(ingredients, { type = "item", name = "glass-plate", amount = 8 })
+    table.insert(ingredients, { type = "item", name = "glass-plate", amount = 4 })
 else
-    table.insert(ingredients, { type = "item", name = "bronze-rivet", amount = 8 })
+    table.insert(ingredients, { type = "item", name = "bronze-rivet", amount = 4 })
 end
 
 data:extend({

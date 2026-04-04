@@ -9,7 +9,7 @@ data:extend({
 
         ingredients = {
             { type = "item", name = "bronze-rivet",       amount = 4 },
-            { type = "item", name = "bronze-plate-heavy", amount = 12 },
+            { type = "item", name = "bronze-plate-heavy", amount = 6 },
             { type = "item", name = "stone-furnace",      amount = 1 },
         },
 

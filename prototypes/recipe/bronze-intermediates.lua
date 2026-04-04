@@ -8,7 +8,7 @@ data:extend({
             {
                 type = "item",
                 name = "copper-plate",
-                amount = 9,
+                amount = 1,
             },
             {
                 type = "item",
@@ -20,7 +20,7 @@ data:extend({
             {
                 type = "item",
                 name = "bronze-plate",
-                amount = 10,
+                amount = 1,
             },
         },
         enabled = false,
