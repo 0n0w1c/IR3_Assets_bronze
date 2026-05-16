@@ -99,7 +99,7 @@ data:extend({
         energy_per_sector = "8MJ",
         energy_source = {
             fluid_box = {
-                volume = 200,
+                volume = 100,
                 filter = "steam",
                 pipe_connections = {
                     {
@@ -184,9 +184,9 @@ data:extend({
             }
         },
         integration_patch_render_layer = "object",
-        max_distance_of_nearby_sector_revealed = 2,
+        max_distance_of_nearby_sector_revealed = 3,
         max_distance_of_sector_revealed = 14,
-        max_health = 325,
+        max_health = 300,
         minable = { mining_time = 0.2, result = "bronze-telescope" },
         pictures = {
             layers = {
