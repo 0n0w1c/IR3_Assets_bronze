@@ -1,6 +1,6 @@
 {
     "name": "IR3_Assets_bronze",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "title": "IR3 Assets: bronze",
     "author": "0n0w1c",
     "description": "Adds bronze using IR3 graphical assets, if installed.\nRequires the manual installation of the Industrial Revolution 3 Asset Packs.",
@@ -8,7 +8,7 @@
     "dependencies": [
         "base >= 2.1",
         "IR3_Assets_some_assembly_required >= 0.2.0",
-        "IR3_Assets_steamworks >= 0.6.0",
+        "IR3_Assets_steamworks >= 0.6.1",
         "? alloy-smelting",
         "? IR3_Assets_resources"
     ]

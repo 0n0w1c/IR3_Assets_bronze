@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 25.06.2026
+  Bugfixes:
+    - Updated the telescope fluidbox filters for 2.1
+    - Added a migration for existing telescopes
+  Changes:
+    - None
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 25.06.2026
   Bugfixes:
