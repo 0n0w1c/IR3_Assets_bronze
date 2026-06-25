@@ -14,7 +14,7 @@ data:extend({
         type = "recipe",
         name = "bronze-alloy-furnace",
 
-        category = "crafting",
+        categories = { "crafting" },
         enabled = false,
         energy_required = 5,
 
@@ -23,8 +23,5 @@ data:extend({
         results = {
             { type = "item", name = "bronze-alloy-furnace", amount = 1 },
         },
-
-        always_show_products = true,
-        show_amount_in_title = false,
     }
 })

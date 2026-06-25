@@ -2,7 +2,7 @@ data:extend({
     {
         name = "tin-plate",
         type = "recipe",
-        category = "smelting",
+        categories = { "smelting" },
         auto_recycle = false,
         enabled = true,
         energy_required = 3.2,

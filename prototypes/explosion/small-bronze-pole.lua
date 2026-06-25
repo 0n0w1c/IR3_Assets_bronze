@@ -92,7 +92,6 @@ data:extend({
         },
         hidden_in_factoriopedia = true,
         icon = "__IndustrialRevolution3Assets1__/graphics/icons/64/small-bronze-pole.png",
-        icon_mipmaps = 4,
         icon_size = 64,
         render_layer = "object",
         smoke = "light-smoke",

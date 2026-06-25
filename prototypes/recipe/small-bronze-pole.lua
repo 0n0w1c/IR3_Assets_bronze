@@ -2,9 +2,7 @@ data:extend({
     {
         type = "recipe",
         name = "small-bronze-pole",
-
-        always_show_products = true,
-        category = "crafting",
+        categories = { "crafting" },
         enabled = false,
         energy_required = 0.5,
         ingredients = {
@@ -13,7 +11,6 @@ data:extend({
         },
         order = "a[energy]-a[za]",
         results = { { type = "item", name = "small-bronze-pole", amount = 1 } },
-        show_amount_in_title = false,
         subgroup = "energy-pipe-distribution",
     }
 })

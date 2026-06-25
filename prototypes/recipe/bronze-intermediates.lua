@@ -2,7 +2,7 @@ data:extend({
     {
         name = "bronze-plate",
         type = "recipe",
-        category = "kiln-smelting",
+        categories = { "kiln-smelting" },
         energy_required = 3.2,
         ingredients = {
             {
